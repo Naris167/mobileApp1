@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quiz2</string>
+    <string name="remaining_items">(%1$d)</string>
+</resources>
